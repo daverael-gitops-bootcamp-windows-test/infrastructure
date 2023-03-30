@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: simple-http-server-for-rollout
-        image: ghcr.io/daverael-gitops-bootcamp-windows-test/simple-http-server:4559634850
+        image: ghcr.io/daverael-gitops-bootcamp-windows-test/simple-http-server:4559950787
         ports:
         - containerPort: 8080
   strategy:
